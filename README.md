@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React JS<br>👯 I’m looking to collaborate on Open Source Front end Projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Next JS<br>💬 Ask me about<br>⚡ Fun fact is that I am ready to take Challanges
+🔭 I’m currently working on React JS<br>👯 I’m looking to collaborate on Open Source Front end Projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Next JS<br>💬 Ask me about React JavaScript<br>⚡ Fun fact is that I am ready to take Challanges
 
 
 ## 🌐 Socials:
